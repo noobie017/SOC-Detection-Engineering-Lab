@@ -1,4 +1,4 @@
-# Atomic Red Team – T1110 Brute Force Detection with Wazuh
+ # Atomic Red Team – T1110 Brute Force Detection with Wazuh
 
 ## Overview
 
@@ -40,5 +40,5 @@ powershell
 cd C:\AtomicRedTeam
 Import-Module .\invoke-atomicredteam\Invoke-AtomicRedTeam.psd1 -Force
 2. Execute the Test
-powershell
+powershell    
 Invoke-AtomicTest T1110.001 -TestNumbers 1
