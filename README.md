@@ -3,7 +3,7 @@
 **Lab Component:** Windows 10 Virtual Machine (Endpoint)  
 **Purpose:** Adversary emulation using Atomic Red Team + detection validation with Wazuh  
 **Last Updated:** October 2026
-
+   
 ---
 
 ## Overview
