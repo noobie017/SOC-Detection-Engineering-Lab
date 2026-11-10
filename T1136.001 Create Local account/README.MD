@@ -18,3 +18,4 @@ On Windows systems, this is commonly achieved using:
 These accounts can later be used for lateral movement, privilege escalation, or as a backup access method that does not rely on implanted remote access tools.
 
 ---
+magic
