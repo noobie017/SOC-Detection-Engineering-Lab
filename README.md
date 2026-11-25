@@ -41,6 +41,8 @@ The lab consists of:
                 +-----------------------------------+
                      Accessed via Web Browser
 
+                     
+
 
 Note on Architecture & Resource Constraints:
 This lab environment is purposely consolidated onto a single physical host due to limited RAM capacity on the laptop. Running the all-in-one Ubuntu server (Wazuh Manager, Indexer, and Dashboard) alongside a Windows 10 endpoint VM maximizes resource efficiency for testing and evaluation without requiring dedicated physical hardware.
